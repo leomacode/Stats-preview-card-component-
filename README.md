@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Demo Link](https://app.netlify.com/sites/tender-jennings-e98391/overview)
+- Live Site URL: [Demo Link](https://tender-jennings-e98391.netlify.app/)
 
 ### Built with
 
